@@ -1,4 +1,4 @@
-# ADSyncDump BOF
+# ADSyncDump BOF AdaptixC2
 
 The ADSyncDump BOF is a port of Dirkjan Mollema's [adconnectdump.py / ADSyncDecrypt](https://github.com/dirkjanm/adconnectdump) into a Beacon Object File (BOF) for use with Cobalt Strike, Sliver and Havoc.
 
