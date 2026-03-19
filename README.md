@@ -25,6 +25,8 @@ beacon> adsyncdump
 
 ![ADSyncDump Example (Sliver)](images/adsyncdump-sliver.png)
 
+For AdaptixC2, run `make` and load it in Adaptix then run.
+
 ## Background
 
 This BOF came into existence a couple of years ago during an engagement after I ran into issues with the fact that the original Python script was too intrusive on client systems, and I had trouble getting the .NET version to run properly. As such I decided to reverse engineer the exact Win32 API calls used for the decryption process in my spare time and port it to a BOF.
